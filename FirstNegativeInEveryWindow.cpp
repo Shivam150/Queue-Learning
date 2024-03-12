@@ -17,7 +17,7 @@ vector<int> firstNegative(vector<int> arr, int n, int k) {
 		 ans.push_back(0);
 	 }
 
-	 // process fo rremaining windows
+	 // process fo remaining windows
 
 	 for(int i=k;i<n;i++){
 		 // removal
